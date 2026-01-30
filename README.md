@@ -21,7 +21,10 @@ The database schema represents a simplified hospital system with the following e
 - **patients** – demographic and physical attributes
 - **doctors** – physician information and specialty
 - **admissions** – hospital admission records
-- **province_names** – geographic lookup table
+- **province_names**– geographic lookup table
+  
+  ![Table Schema](https://github.com/user-attachments/assets/0e897689-7a11-4c57-8f55-5fb8f23036f1)
+ 
 
 > ⚠️ **Important note**  
 > The database schema used in this project is **copied from**:  
