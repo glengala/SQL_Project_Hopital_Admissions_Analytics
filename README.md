@@ -1,4 +1,4 @@
-# SQL Project - Hopital Admissions Analytics
+# SQL Project - Hospital Admissions Analytics
 
 
 ## Project Overview
